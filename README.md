@@ -1,6 +1,6 @@
 # Window Streaming App
 
-ComplexStreamApp is a C++ Qt-based application that streams video and audio while offering an enhanced user interface with media controls, scheduling capabilities, and real-time updates. This project serves as a starting point for developing multimedia streaming applications with a modular design and clear separation between UI and logic.
+Window Streaming App is a C++ Qt-based application that streams video and audio while offering an enhanced user interface with media controls, scheduling capabilities, and real-time updates. This project serves as a starting point for developing multimedia streaming applications with a modular design and clear separation between UI and logic.
 
 ## Features
 
